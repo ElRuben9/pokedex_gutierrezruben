@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    android:background="@color/pokemon_yellow">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guide_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.32" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="28dp"
+        android:text="@string/pokemon_name"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="@string/pokemon_number"
+        android:textColor="@color/text_dark"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@id/tv_name"
+        app:layout_constraintTop_toBottomOf="@id/tv_name" />
+
+    <ImageView
+        android:id="@+id/iv_fav"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_marginEnd="24dp"
+        android:contentDescription="@null"
+        android:src="@drawable/ic_star_outline"
+        app:layout_constraintBottom_toBottomOf="@id/tv_name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/tv_name"
+        app:tint="@color/white" />
+
+    <ImageView
+        android:id="@+id/iv_pokeball_bg"
+        android:layout_width="260dp"
+        android:layout_height="260dp"
+        android:layout_marginEnd="-40dp"
+        android:contentDescription="@null"
+        android:src="@drawable/bg_pokeball"
+        app:layout_constraintBottom_toBottomOf="@id/guide_header"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/card_details"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/bg_card_top_rounded"
+        android:paddingHorizontal="24dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/guide_header">
+
+        <androidx.constraintlayout.widget.Guideline
+            android:id="@+id/guide_card_center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            app:layout_constraintGuide_percent="0.5" />
+
+        <TextView
+            android:id="@+id/badge_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_badge_type"
+            android:paddingHorizontal="20dp"
+            android:paddingVertical="5dp"
+            android:text="@string/type_electric"
+            android:textColor="@color/text_dark"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_label_height"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/label_height"
+            android:textColor="@color/label_red"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/tv_val_height"
+            app:layout_constraintHorizontal_chainStyle="spread_inside"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/badge_type" />
+
+        <TextView
+            android:id="@+id/tv_val_height"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:text="@string/val_height"
+            android:textColor="@color/text_dark"
+            android:textSize="17sp"
+            app:layout_constraintBaseline_toBaselineOf="@id/tv_label_height"
+            app:layout_constraintEnd_toStartOf="@id/guide_card_center"
+            app:layout_constraintStart_toEndOf="@id/tv_label_height" />
+
+        <TextView
+            android:id="@+id/tv_label_weight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/label_weight"
+            android:textColor="@color/label_red"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toStartOf="@+id/tv_val_weight"
+            app:layout_constraintHorizontal_chainStyle="spread_inside"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_label_height" />
+
+        <TextView
+            android:id="@+id/tv_val_weight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:text="@string/val_weight"
+            android:textColor="@color/text_dark"
+            android:textSize="17sp"
+            app:layout_constraintBaseline_toBaselineOf="@id/tv_label_weight"
+            app:layout_constraintEnd_toStartOf="@id/guide_card_center"
+            app:layout_constraintStart_toEndOf="@id/tv_label_weight" />
+
+        <TextView
+            android:id="@+id/tv_label_ability"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:text="@string/label_ability"
+            android:textColor="@color/label_red"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toEndOf="@id/guide_card_center"
+            app:layout_constraintTop_toTopOf="@id/tv_label_height" />
+
+        <TextView
+            android:id="@+id/tv_val_ability"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:text="@string/val_ability"
+            android:textColor="@color/text_dark"
+            android:textSize="17sp"
+            app:layout_constraintStart_toStartOf="@id/tv_label_ability"
+            app:layout_constraintTop_toBottomOf="@id/tv_label_ability" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:gravity="center"
+            android:lineSpacingExtra="4dp"
+            android:text="@string/pokemon_description"
+            android:textColor="@color/text_light_gray"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_label_weight" />
+
+        <ImageView
+            android:id="@+id/iv_prev"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:contentDescription="@null"
+            android:src="@drawable/img_arbok"
+            app:layout_constraintBottom_toTopOf="@id/layout_nav_prev"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <LinearLayout
+            android:id="@+id/layout_nav_prev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:contentDescription="@null"
+                android:src="@drawable/ic_arrow_left" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="4dp"
+                android:text="@string/prev_pokemon"
+                android:textColor="@color/text_light_gray"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_next"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:contentDescription="@null"
+            android:src="@drawable/img_raichu"
+            app:layout_constraintBottom_toTopOf="@id/layout_nav_next"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <LinearLayout
+            android:id="@+id/layout_nav_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="4dp"
+                android:text="@string/next_pokemon"
+                android:textColor="@color/text_light_gray"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:contentDescription="@null"
+                android:src="@drawable/ic_arrow_right" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <ImageView
+        android:id="@+id/iv_main_pokemon"
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:layout_marginBottom="-40dp"
+        android:contentDescription="@null"
+        android:src="@drawable/img_pikachu"
+        app:layout_constraintBottom_toTopOf="@id/guide_header"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
