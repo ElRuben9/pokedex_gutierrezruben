@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="badge_yellow">#F9E75D</color>
+    <color name="label_red">#B0262C</color>
+    <color name="pokemon_yellow">#F4D03F</color>
+    <color name="text_dark">#2C3E50</color>
+    <color name="text_light_gray">#555555</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">MiPokedex</string>
+    <string name="label_ability">Habilidad</string>
+    <string name="label_height">Altura</string>
+    <string name="label_weight">Peso</string>
+    <string name="next_pokemon">Raichu N.º 0026</string>
+    <string name="pokemon_description">Cuando se enfada, este Pokémon descarga la energía que almacena en el interior de las bolsas de las mejillas.</string>
+    <string name="pokemon_name">Pikachu</string>
+    <string name="pokemon_number">#025</string>
+    <string name="prev_pokemon">Arbok N.º 0024</string>
+    <string name="type_electric">Eléctrico</string>
+    <string name="val_ability">Elec. Estática</string>
+    <string name="val_height">0,4m</string>
+    <string name="val_weight">6,0kg</string>
+    <style name="Theme.Pokedexcompose_GutierrrezRuben" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

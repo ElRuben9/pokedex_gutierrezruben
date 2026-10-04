@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color badge_yellow
+color label_red
+color pokemon_yellow
+color text_dark
+color text_light_gray
+color white
+drawable bg_badge_type
+drawable bg_card_top_rounded
+drawable bg_pokeball
+drawable ic_arrow_left
+drawable ic_arrow_right
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_star_outline
+drawable img_arbok
+drawable img_pikachu
+drawable img_raichu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string label_ability
+string label_height
+string label_weight
+string next_pokemon
+string pokemon_description
+string pokemon_name
+string pokemon_number
+string prev_pokemon
+string type_electric
+string val_ability
+string val_height
+string val_weight
+style Theme.Pokedexcompose_GutierrrezRuben
+xml backup_rules
+xml data_extraction_rules

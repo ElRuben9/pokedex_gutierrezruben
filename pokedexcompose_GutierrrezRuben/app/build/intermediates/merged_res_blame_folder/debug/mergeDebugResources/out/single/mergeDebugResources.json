@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_img_arbok.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/img_arbok.png"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_bg_card_top_rounded.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/bg_card_top_rounded.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/xml_backup_rules.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_arrow_left.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_arrow_left.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_img_pikachu.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/img_pikachu.png"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_star_outline.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_star_outline.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_bg_badge_type.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/bg_badge_type.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/xml_data_extraction_rules.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_arrow_right.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_bg_pokeball.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/bg_pokeball.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_img_raichu.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/img_raichu.png"
+    }
+]
