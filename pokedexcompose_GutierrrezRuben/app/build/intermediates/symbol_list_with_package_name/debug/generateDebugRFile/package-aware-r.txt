@@ -8,6 +8,9 @@ color white
 drawable bg_badge_type
 drawable bg_card_top_rounded
 drawable bg_pokeball
+drawable bulbasaur
+drawable charmander
+drawable gengar
 drawable ic_arrow_left
 drawable ic_arrow_right
 drawable ic_launcher_background
@@ -16,6 +19,12 @@ drawable ic_star_outline
 drawable img_arbok
 drawable img_pikachu
 drawable img_raichu
+drawable jigglypuff
+drawable lucario
+drawable mewtwo
+drawable mimikyu
+drawable snorlax
+drawable squirtle
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
@@ -27,6 +36,7 @@ string pokemon_description
 string pokemon_name
 string pokemon_number
 string prev_pokemon
+string title_activity_pokedex_list
 string type_electric
 string val_ability
 string val_height

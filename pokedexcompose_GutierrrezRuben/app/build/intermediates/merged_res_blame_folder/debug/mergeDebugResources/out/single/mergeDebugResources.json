@@ -1,102 +1,138 @@
 [
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_launcher_background.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_bg_card_top_rounded.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\bg_card_top_rounded.xml"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_bulbasaur.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/bulbasaur.png"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_img_arbok.png.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/img_arbok.png"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_bg_badge_type.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\bg_badge_type.xml"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_bg_card_top_rounded.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/bg_card_top_rounded.xml"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/xml_backup_rules.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_arrow_left.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_arrow_left.xml"
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_mimikyu.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/mimikyu.png"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_img_pikachu.png.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/img_pikachu.png"
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_gengar.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/gengar.png"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_bg_pokeball.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\bg_pokeball.xml"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_img_arbok.png.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\img_arbok.png"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_star_outline.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_star_outline.xml"
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_snorlax.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/snorlax.png"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_bg_badge_type.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/bg_badge_type.xml"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/xml_data_extraction_rules.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/xml/data_extraction_rules.xml"
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_squirtle.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/squirtle.png"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_arrow_right.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_arrow_right.xml"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_ic_arrow_left.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\ic_arrow_left.xml"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_bg_pokeball.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/bg_pokeball.xml"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_img_raichu.png.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\img_raichu.png"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\ic_arrow_right.xml"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_img_raichu.png.flat",
-        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/img_raichu.png"
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_ic_star_outline.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\ic_star_outline.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_mewtwo.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/mewtwo.png"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_charmander.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/charmander.png"
+    },
+    {
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_img_pikachu.png.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\img_pikachu.png"
+    },
+    {
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_jigglypuff.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/jigglypuff.png"
+    },
+    {
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:/drawable_lucario.png.flat",
+        "source": "gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:/drawable/lucario.png"
+    },
+    {
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-debug-40:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ruben\\.gradle\\daemon\\9.5.0\\gutierrez.ruben.pokedexcompose_gutierrrezruben.app-main-42:\\xml\\data_extraction_rules.xml"
     }
 ]

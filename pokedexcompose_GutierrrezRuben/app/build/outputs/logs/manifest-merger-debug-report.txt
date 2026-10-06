@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.compose.material3:material3-android:1.4.0] C:\Users\ruben\.gradle\caches\9.5.0\transforms\2bb557644280798c53581cb951f18f0d\transformed\material3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material:material-android:1.10.4] C:\Users\ruben\.gradle\caches\9.5.0\transforms\fd73454c6720781220a2f9247713f670\transformed\material\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-ripple-android:1.10.4] C:\Users\ruben\.gradle\caches\9.5.0\transforms\830064ef66228ab8fab276f24df1205b\transformed\material-ripple\AndroidManifest.xml:2:1-7:12
@@ -78,8 +78,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\ruben\.gradle\caches\9.5.0\tra
 	xmlns:android
 		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:5:5-26:19
-INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:5:5-23:19
+INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:5:5-23:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.10.4] C:\Users\ruben\.gradle\caches\9.5.0\transforms\754be9b94b195b6252629821b248bf34\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.10.4] C:\Users\ruben\.gradle\caches\9.5.0\transforms\754be9b94b195b6252629821b248bf34\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.10.4] C:\Users\ruben\.gradle\caches\9.5.0\transforms\a616855e42e177d54696d73d927c781a\transformed\ui-test-manifest-1.10.4\AndroidManifest.xml:22:5-27:19
@@ -118,28 +118,22 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ru
 		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:13:9-68
 	android:dataExtractionRules
 		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:7:9-65
-activity#gutierrez.ruben.pokedexcompose_gutierrrezruben.MainActivity
-ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:14:9-25:20
-	android:label
-		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:17:13-45
-	android:windowSoftInputMode
-		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:19:13-55
+activity#gutierrez.ruben.pokedexcompose_gutierrrezruben.PokedexList
+ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:14:9-21:20
 	android:exported
 		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:16:13-36
-	android:theme
-		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:18:13-72
 	android:name
-		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:15:13-40
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:17:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml:19:27-74
 uses-sdk
 INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ruben\AndroidStudioProjects\pokedexcompose_GutierrrezRuben\app\src\main\AndroidManifest.xml
