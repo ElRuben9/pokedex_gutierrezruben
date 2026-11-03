@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">MiPokedex</string>
+
+    <!-- Formatos que sirven para cualquier Pokémon -->
+    <string name="pokemon_number">#%1$03d</string>
+    <string name="pokemon_height">%1$.1fm</string>
+    <string name="pokemon_weight">%1$.1fkg</string>
+    <string name="neighbor_label">%1$s N.º %2$04d</string>
+    <string name="cd_pokemon_image">Imagen de %1$s</string>
+    <string name="cd_favorite">Favorito</string>
+    <string name="pokemon_not_found">No se encontró el Pokémon</string>
+
+    <!-- Inicio de sesión -->
+    <string name="login_email">Correo electrónico</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="cd_show_password">Mostrar contraseña</string>
+    <string name="cd_hide_password">Ocultar contraseña</string>
+
+    <!-- Lista de Pokémon (sus datos vienen en inglés) -->
+    <string name="row_height">Height: %1$s</string>
+    <string name="row_weight">Weight: %1$s</string>
+    <string name="cd_row_image">%1$s image</string>
+
+    <!-- Menú de la Pokédex -->
+    <string name="label_favorites">Mis Favoritos</string>
+    <string name="label_all_pokemons">Todos mis pokemones</string>
+    <string name="cd_view_list">Vista de lista</string>
+    <string name="cd_view_grid">Vista de tabla</string>
+    <string name="favorites_empty">Toca la estrella en el detalle de un Pokémon para agregarlo aquí</string>
+    <string name="go_hunt">Ir a cazar</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <!-- Cacería -->
+    <string name="label_tall_grass">Hierba alta</string>
+    <string name="label_team">Pokémon capturados (%1$d)</string>
+    <string name="hunt_search">Buscar</string>
+    <string name="hunt_capture">Capturar</string>
+    <string name="hunt_idle">Busca en la hierba alta para encontrar un Pokémon salvaje</string>
+    <string name="hunt_wild">¡Apareció un %1$s salvaje!</string>
+    <string name="hunt_caught">¡Atrapaste a %1$s!</string>
+    <string name="hunt_escaped">¡%1$s escapó!</string>
+    <string name="team_empty">Aún no has atrapado ningún Pokémon</string>
+
+    <!-- Estadísticas -->
+    <string name="label_height">Altura</string>
+    <string name="label_weight">Peso</string>
+    <string name="label_ability">Habilidad</string>
+</resources>
