@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiPokedexCompose</string>
+    <string name="title_activity_pokedex_list">PokedexList</string>
+</resources>
